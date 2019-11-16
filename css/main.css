@@ -19,3 +19,8 @@ h2{
   color: #3f1622;
   font-family: PT Sans;
 }
+
+figcaption{
+  text-align: center;
+  font-style: italic;
+}
