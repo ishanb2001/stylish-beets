@@ -4,11 +4,11 @@ html{
 
 a{
   color: #8f2440;
-  font-family: PT sans;
+  font-family: "PT Sans";
 }
 
 h1{
-  font-family: PT sans;
+  font-family: "PT Sans";
 }
 
 img{
@@ -17,7 +17,7 @@ img{
 
 h2{
   color: #3f1622;
-  font-family: PT Sans;
+  font-family: "PT Sans";
 }
 
 figcaption{
@@ -30,15 +30,15 @@ cite{
 }
 
 p{
-  font-family: PT Serif;
+  font-family: "PT Serif";
 }
 
 dd{
-  font-family: PT Serif;
+  font-family: "PT Serif";
 }
 
 dt{
-font-family: PT Serif;
+font-family: "PT Serif";
 }
 
 a.hover{
