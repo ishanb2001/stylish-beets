@@ -4,4 +4,9 @@ body{
 
 a{
   color: #8f2440;
+  font-family: PT sans;
+}
+
+h1{
+  font-family: PT sans;
 }
