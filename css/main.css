@@ -1,4 +1,4 @@
-body{
+html{
   background-color: #c9b5ab;
 }
 
@@ -39,4 +39,8 @@ dd{
 
 dt{
 font-family: PT Serif;
+}
+
+a.hover{
+  text-decoration: underline;
 }
