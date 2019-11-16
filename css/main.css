@@ -5,6 +5,7 @@ html{
 a{
   color: #8f2440;
   font-family: "PT Sans";
+  text-decoration: none;
 }
 
 h1{
@@ -31,16 +32,20 @@ cite{
 
 p{
   font-family: "PT Serif";
+  font-weight: normal;
 }
 
 dd{
   font-family: "PT Serif";
+  line-height: 1.5;
 }
 
 dt{
 font-family: "PT Serif";
+line-height: 1.5;
 }
 
-a.hover{
+a:hover{
+  color: #3f1622;
   text-decoration: underline;
 }
