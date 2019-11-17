@@ -1,51 +1,55 @@
-html{
+html {
   background-color: #c9b5ab;
 }
 
-a{
+a {
   color: #8f2440;
   font-family: "PT Sans";
   text-decoration: none;
 }
 
-h1{
+h1 {
   font-family: "PT Sans";
 }
 
-img{
+img {
   width:100%;
 }
 
-h2{
+h2 {
   color: #3f1622;
   font-family: "PT Sans";
 }
 
-figcaption{
+figcaption {
   text-align: center;
   font-style: italic;
 }
 
-cite{
+ul{
+  list-style-type: lower-greek;
+}
+
+cite {
   font-size: 1.5rem;
 }
 
-p{
+p {
   font-family: "PT Serif";
   font-weight: normal;
 }
 
-dd{
+dd {
   font-family: "PT Serif";
   line-height: 1.5;
 }
 
-dt{
+dt {
 font-family: "PT Serif";
 line-height: 1.5;
 }
 
-a:hover{
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
