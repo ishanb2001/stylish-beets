@@ -22,7 +22,7 @@ h2 {
   color: #3f1622;
   font-family: "PT Sans";
 }
-nav ol{
+nav ol {
   list-style-type: none;
   font-size: 1.125rem;
   font-weight: bold;
@@ -33,8 +33,12 @@ figcaption {
   font-style: italic;
 }
 
-ul{
+.first {
   list-style-type: lower-greek;
+}
+
+.second {
+  list-style-type: circle;
 }
 
 cite {
