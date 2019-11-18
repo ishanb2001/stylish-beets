@@ -10,6 +10,8 @@ a {
 
 h1 {
   font-family: "PT Sans";
+  color: #3f1622;
+  font-size: 1.5rem;
 }
 
 img {
@@ -19,6 +21,11 @@ img {
 h2 {
   color: #3f1622;
   font-family: "PT Sans";
+}
+nav ol{
+  list-style-type: none;
+  font-size: 1.125rem;
+  font-weight: bold;
 }
 
 figcaption {
@@ -52,4 +59,8 @@ line-height: 1.5;
 a:hover {
   color: #3f1622;
   text-decoration: underline;
+}
+
+blockquote{
+  font-size: 1.5rem;
 }
