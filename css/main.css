@@ -1,5 +1,6 @@
 html {
   background-color: #c9b5ab;
+  line-height: 1.5;
 }
 
 a {
@@ -15,13 +16,14 @@ h1 {
 }
 
 img {
-  width:100%;
+  width: 100%;
 }
 
 h2 {
   color: #3f1622;
   font-family: "PT Sans";
 }
+
 nav ol {
   list-style-type: none;
   font-size: 1.125rem;
@@ -45,6 +47,9 @@ cite {
   font-size: 1.5rem;
 }
 
+.list {
+  font-family: "PT Serif";
+}
 
 .chris {
   font-size: .8rem;
@@ -61,8 +66,8 @@ dd {
 }
 
 dt {
-font-family: "PT Serif";
-line-height: 1.5;
+  font-family: "PT Serif";
+  line-height: 1.5;
 }
 
 a:hover {
@@ -70,6 +75,6 @@ a:hover {
   text-decoration: underline;
 }
 
-blockquote{
+blockquote {
   font-size: 1.5rem;
 }
